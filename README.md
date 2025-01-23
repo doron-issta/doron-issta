@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on AI <br>
+- 🔭 I’m currently working on AI |
 - 🌱 I’m currently learning AI <br>
-- 👯 I’m looking to collaborate on AI<br>
-- 🤔 I’m looking for help with AI<br>
+- 👯 I’m looking to collaborate on AI |
 - ⚡ Fun fact: AI AI AI  :-)<br>
 
